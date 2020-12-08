@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.img {
+  width: 460px;
+  height: 450px;
+
+  border-radius: 8px;
+}
+.titleRed {
+  color: red;
+}
+.sky {
+  text-shadow: 1px 1px;
+}
+.imge {
+  display: flex;
+  flex-direction: row;
+}
